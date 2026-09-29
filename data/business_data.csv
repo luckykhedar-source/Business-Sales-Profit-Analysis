@@ -1,0 +1,301 @@
+Business_ID,Business_Name,Business_Type,City,Business_Size,Ownership_Type,Employees,Customers,Sales,Expenses,Profit,Customer_Satisfaction,Branches,Primary_Payment_Method,Established_Date
+1,Business_001,Manufacturing,Chennai,Small,Private,393,8885,489257,279098,210159,3.91,22,Cash,2021-11-23
+2,Business_002,Education,Hyderabad,Small,Private,932,7247,1182944,711833,471111,4.43,39,UPI,2021-05-24
+3,Business_003,Logistics,Mumbai,Small,Private,688,2429,105323,62346,42977,2.82,2,Debit Card,2026-02-10
+4,Business_004,Healthcare,Ahmedabad,Small,Public,356,8647,3662449,2593137,1069312,4.5,14,Bank Transfer,2024-08-01
+5,Business_005,Education,Bengaluru,Medium,Sole Proprietorship,706,8923,4471425,3148626,1322799,4.1,43,Bank Transfer,2025-12-28
+6,Business_006,Manufacturing,Pune,Large,Private,872,3073,4128008,2824688,1303320,4.31,6,UPI,2024-09-09
+7,Business_007,Education,Kolkata,Small,Sole Proprietorship,401,9490,2246869,1183104,1063765,4.45,2,Credit Card,2024-04-15
+8,Business_008,Education,Bengaluru,Medium,Partnership,420,8816,789516,650736,138780,3.75,4,Debit Card,2023-10-11
+9,Business_009,Consulting,Delhi,Large,Sole Proprietorship,392,7657,2007676,1395086,612590,2.61,9,UPI,2022-01-31
+10,Business_010,Education,Chennai,Medium,Sole Proprietorship,5,1879,226234,127904,98330,4.04,33,Debit Card,2024-12-19
+11,Business_011,Retail,Kolkata,Small,Sole Proprietorship,34,5383,794815,387319,407496,3.16,31,Cash,2025-03-18
+12,Business_012,Education,Bengaluru,Large,Partnership,910,6965,4760943,2859773,1901170,2.66,44,Credit Card,2023-02-02
+13,Business_013,Retail,Kolkata,Large,Public,154,4870,2021016,1586197,434819,4.44,25,Debit Card,2021-09-17
+14,Business_014,Finance,Mumbai,Large,Partnership,826,9755,4537238,4032326,504912,3.47,4,Credit Card,2023-07-21
+15,Business_015,Logistics,Chennai,Medium,Private,167,8645,222908,135370,87538,3.31,34,Bank Transfer,2024-02-14
+16,Business_016,Restaurant,Pune,Small,Public,100,4552,1202355,726952,475403,4.82,16,Credit Card,2025-12-21
+17,Business_017,Retail,Mumbai,Small,Partnership,781,381,2751611,1565795,1185816,2.99,37,Credit Card,2021-06-24
+18,Business_018,Finance,Delhi,Large,Partnership,809,8029,2709425,1321341,1388084,3.73,26,Cash,2022-06-11
+19,Business_019,Education,Kolkata,Small,Partnership,629,197,4898147,4115512,782635,4.75,39,Bank Transfer,2026-06-11
+20,Business_020,Hospitality,Mumbai,Large,Private,374,7649,4197952,2537777,1660175,3.4,43,UPI,2022-10-09
+21,Business_021,Logistics,Pune,Small,Partnership,396,1123,3058746,1674563,1384183,4.6,25,Bank Transfer,2022-06-28
+22,Business_022,Manufacturing,Pune,Small,Public,130,4448,1516988,1267214,249774,3.76,39,Debit Card,2021-04-23
+23,Business_023,Manufacturing,Chennai,Small,Sole Proprietorship,592,5419,3242579,1534458,1708121,3.11,29,Debit Card,2025-09-19
+24,Business_024,Education,Hyderabad,Large,Sole Proprietorship,518,9520,3734458,2626238,1108220,4.76,18,Debit Card,2026-05-10
+25,Business_025,Retail,Kolkata,Large,Sole Proprietorship,756,2260,459100,244237,214863,3.69,3,UPI,2024-01-15
+26,Business_026,Education,Hyderabad,Large,Private,479,8359,1237422,738281,499141,4.75,39,Debit Card,2024-12-16
+27,Business_027,Retail,Pune,Large,Sole Proprietorship,238,1126,4916271,4205436,710835,4.68,19,Credit Card,2023-05-03
+28,Business_028,Hospitality,Bengaluru,Medium,Partnership,207,863,3049981,1955768,1094213,3.17,11,Bank Transfer,2025-09-16
+29,Business_029,Logistics,Hyderabad,Medium,Private,110,7353,1677869,983631,694238,4.03,36,Debit Card,2025-07-12
+30,Business_030,Restaurant,Kolkata,Medium,Sole Proprietorship,118,1085,1688285,1155323,532962,3.93,49,UPI,2023-11-26
+31,Business_031,Consulting,Hyderabad,Small,Partnership,1000,715,3040255,1578596,1461659,3.11,14,Cash,2023-04-07
+32,Business_032,Education,Bengaluru,Small,Partnership,753,7237,266952,121444,145508,4.25,12,Debit Card,2021-08-19
+33,Business_033,Education,Hyderabad,Large,Private,771,6023,2420184,1819802,600382,4.47,30,Credit Card,2023-04-29
+34,Business_034,Manufacturing,Kolkata,Large,Partnership,404,1362,1912687,1300147,612540,4.96,32,Cash,2022-08-11
+35,Business_035,Restaurant,Delhi,Small,Sole Proprietorship,953,5881,1217884,808724,409160,3.88,2,UPI,2023-12-03
+36,Business_036,Technology,Kolkata,Small,Private,525,1654,3011229,1746333,1264896,3.98,21,Cash,2025-05-18
+37,Business_037,Consulting,Kolkata,Small,Sole Proprietorship,148,187,1777643,1567261,210382,2.91,6,Debit Card,2021-03-08
+38,Business_038,Logistics,Kolkata,Small,Sole Proprietorship,66,1023,873856,450808,423048,2.88,30,Cash,2021-10-03
+39,Business_039,Technology,Hyderabad,Small,Sole Proprietorship,354,2443,395430,241813,153617,2.72,1,Debit Card,2022-11-02
+40,Business_040,Technology,Bengaluru,Small,Private,117,4190,3411412,2065609,1345803,3.22,9,Bank Transfer,2025-06-12
+41,Business_041,Hospitality,Chennai,Medium,Public,384,2234,56748,45582,11166,4.62,3,Bank Transfer,2022-08-16
+42,Business_042,Retail,Pune,Large,Private,667,4919,2984798,1764203,1220595,2.7,47,Credit Card,2024-06-03
+43,Business_043,Restaurant,Hyderabad,Medium,Private,201,3464,2781661,1808422,973239,4.31,28,UPI,2022-08-04
+44,Business_044,Consulting,Kolkata,Small,Public,751,609,4687437,4183040,504397,4.41,41,Credit Card,2025-05-17
+45,Business_045,Restaurant,Delhi,Large,Private,281,2086,1666278,1023901,642377,4.73,5,Debit Card,2021-04-27
+46,Business_046,Healthcare,Kolkata,Small,Public,536,9172,2187845,1340095,847750,4.66,43,Bank Transfer,2021-09-05
+47,Business_047,Healthcare,Ahmedabad,Small,Private,100,1955,2816473,1631031,1185442,4.05,50,UPI,2025-09-11
+48,Business_048,Education,Delhi,Small,Sole Proprietorship,5,6905,3306938,2704835,602103,3.02,1,UPI,2021-09-23
+49,Business_049,Healthcare,Kolkata,Small,Sole Proprietorship,852,5106,753430,398258,355172,2.66,2,Cash,2025-06-09
+50,Business_050,Hospitality,Bengaluru,Large,Partnership,901,5184,4822760,3024641,1798119,3.28,36,Debit Card,2021-02-16
+51,Business_051,Technology,Kolkata,Small,Sole Proprietorship,51,7025,1268583,746753,521830,2.66,10,Credit Card,2024-09-26
+52,Business_052,Restaurant,Ahmedabad,Large,Partnership,415,9428,447142,311857,135285,4.3,28,Bank Transfer,2026-04-07
+53,Business_053,Technology,Mumbai,Medium,Private,966,8864,3112912,1505319,1607593,4.81,45,Cash,2022-03-03
+54,Business_054,Finance,Mumbai,Large,Private,862,6846,348934,181544,167390,4.49,31,Bank Transfer,2023-02-27
+55,Business_055,Manufacturing,Kolkata,Large,Private,94,812,2849771,2131225,718546,3.04,43,Credit Card,2025-05-21
+56,Business_056,Finance,Kolkata,Large,Public,295,6833,4946677,2898175,2048502,4.61,35,Bank Transfer,2025-09-27
+57,Business_057,Retail,Delhi,Large,Private,469,4135,4661577,2289910,2371667,4.07,36,UPI,2021-03-02
+58,Business_058,Logistics,Pune,Large,Public,858,8922,3167740,1847794,1319946,4.41,38,Debit Card,2022-02-11
+59,Business_059,Retail,Mumbai,Medium,Public,777,7003,1469206,687374,781832,4.16,7,Bank Transfer,2021-05-30
+60,Business_060,Consulting,Mumbai,Medium,Partnership,905,8705,1992204,1410914,581290,3.74,21,Bank Transfer,2024-07-17
+61,Business_061,Healthcare,Pune,Large,Sole Proprietorship,185,3954,3541829,2845647,696182,2.76,46,Cash,2024-11-15
+62,Business_062,Consulting,Pune,Small,Partnership,155,2840,4376617,3370122,1006495,4.21,26,Credit Card,2025-04-29
+63,Business_063,Finance,Delhi,Medium,Private,486,2652,4732206,4005083,727123,3.19,44,Bank Transfer,2024-07-31
+64,Business_064,Manufacturing,Ahmedabad,Medium,Public,53,7134,3730639,2056184,1674455,4.66,45,Cash,2022-11-02
+65,Business_065,Restaurant,Bengaluru,Large,Public,378,5348,3769598,2483144,1286454,4.45,45,Bank Transfer,2024-11-24
+66,Business_066,Hospitality,Pune,Large,Partnership,38,3125,4765067,3165182,1599885,2.82,29,Credit Card,2025-07-29
+67,Business_067,Retail,Pune,Large,Partnership,280,5940,3983384,2560739,1422645,3.86,44,Cash,2022-12-10
+68,Business_068,Restaurant,Delhi,Large,Private,619,8063,1776600,1435077,341523,3.79,26,UPI,2021-05-12
+69,Business_069,Technology,Pune,Large,Sole Proprietorship,759,8100,1630714,868441,762273,2.79,5,Debit Card,2023-11-10
+70,Business_070,Healthcare,Mumbai,Large,Private,382,2965,3200474,1587852,1612622,2.98,5,UPI,2025-08-03
+71,Business_071,Manufacturing,Ahmedabad,Large,Private,429,944,3812267,3309397,502870,2.73,20,Bank Transfer,2023-03-16
+72,Business_072,Education,Pune,Medium,Private,346,3138,3207671,2646146,561525,2.8,29,UPI,2023-10-22
+73,Business_073,Technology,Chennai,Medium,Public,160,5339,2745681,1276292,1469389,4.01,24,Credit Card,2023-12-31
+74,Business_074,Consulting,Hyderabad,Medium,Partnership,722,7896,339068,246514,92554,3.9,20,Credit Card,2022-02-08
+75,Business_075,Education,Ahmedabad,Large,Sole Proprietorship,479,4518,3938537,2627157,1311380,3.59,19,Cash,2024-08-26
+76,Business_076,Restaurant,Pune,Medium,Partnership,243,1039,3352202,2815370,536832,2.9,27,Bank Transfer,2023-06-29
+77,Business_077,Healthcare,Delhi,Large,Partnership,934,6936,2337662,1690898,646764,4.52,6,Bank Transfer,2023-03-01
+78,Business_078,Logistics,Delhi,Small,Public,721,9732,4644549,2222090,2422459,2.82,20,UPI,2021-11-13
+79,Business_079,Hospitality,Hyderabad,Large,Partnership,308,3233,1394770,912713,482057,3.97,4,Debit Card,2026-03-19
+80,Business_080,Retail,Delhi,Small,Public,642,2742,1659016,1202787,456229,3.31,7,Credit Card,2021-03-26
+81,Business_081,Consulting,Ahmedabad,Medium,Partnership,101,9213,2964451,1621514,1342937,3.81,39,Credit Card,2024-09-02
+82,Business_082,Consulting,Hyderabad,Large,Public,179,7482,905839,576568,329271,4.41,38,Debit Card,2025-02-20
+83,Business_083,Hospitality,Ahmedabad,Medium,Sole Proprietorship,447,9947,3403879,2997753,406126,2.9,37,Credit Card,2022-01-30
+84,Business_084,Logistics,Delhi,Large,Partnership,167,8774,1969540,1151616,817924,2.92,32,Cash,2021-07-13
+85,Business_085,Retail,Ahmedabad,Large,Sole Proprietorship,241,9152,2588808,1896734,692074,4.09,15,Bank Transfer,2023-06-04
+86,Business_086,Healthcare,Chennai,Medium,Partnership,993,2581,704275,567476,136799,4.04,13,Cash,2024-09-14
+87,Business_087,Healthcare,Ahmedabad,Small,Partnership,481,5395,809392,513579,295813,3.76,28,Bank Transfer,2022-09-28
+88,Business_088,Retail,Delhi,Medium,Public,135,7326,854012,676632,177380,4.53,47,UPI,2025-10-09
+89,Business_089,Logistics,Ahmedabad,Medium,Public,876,2138,2586743,1299476,1287267,3.08,23,Debit Card,2022-07-02
+90,Business_090,Restaurant,Bengaluru,Large,Public,388,7476,4866438,3344084,1522354,3.62,10,Credit Card,2022-05-08
+91,Business_091,Education,Hyderabad,Large,Sole Proprietorship,778,2453,1555237,1153812,401425,4.54,44,Bank Transfer,2022-05-15
+92,Business_092,Consulting,Chennai,Large,Public,860,6579,3642922,2248979,1393943,3.84,28,Cash,2024-12-18
+93,Business_093,Technology,Hyderabad,Small,Public,460,5348,1987417,1774148,213269,4.92,1,UPI,2022-11-21
+94,Business_094,Retail,Hyderabad,Small,Public,141,4537,3859562,3443094,416468,2.96,12,Credit Card,2022-05-11
+95,Business_095,Healthcare,Kolkata,Large,Sole Proprietorship,62,6353,4501750,2279611,2222139,3.91,17,Debit Card,2025-06-14
+96,Business_096,Logistics,Chennai,Small,Public,176,6939,1183490,572545,610945,3.19,50,UPI,2024-01-19
+97,Business_097,Retail,Hyderabad,Small,Sole Proprietorship,791,7112,4087776,2978414,1109362,3.07,34,UPI,2021-03-25
+98,Business_098,Consulting,Hyderabad,Small,Private,710,1180,3182838,2831324,351514,2.68,35,Bank Transfer,2023-09-11
+99,Business_099,Healthcare,Hyderabad,Medium,Sole Proprietorship,830,3357,4559113,3337082,1222031,3.79,14,Credit Card,2021-03-13
+100,Business_100,Healthcare,Chennai,Medium,Public,145,8928,4384651,3712782,671869,4.55,21,Credit Card,2022-05-22
+101,Business_101,Education,Hyderabad,Medium,Private,636,7276,1330343,644744,685599,4.64,46,Cash,2023-01-28
+102,Business_102,Hospitality,Kolkata,Large,Public,676,1841,4786047,2243993,2542054,2.93,13,Debit Card,2024-08-07
+103,Business_103,Hospitality,Chennai,Small,Public,293,7986,3505636,1965543,1540093,3.96,50,Debit Card,2026-02-09
+104,Business_104,Hospitality,Pune,Small,Sole Proprietorship,513,8688,4123212,2540303,1582909,2.66,9,Credit Card,2024-08-03
+105,Business_105,Education,Kolkata,Large,Sole Proprietorship,664,3556,3698139,2896268,801871,3.02,2,Credit Card,2024-08-25
+106,Business_106,Hospitality,Delhi,Medium,Partnership,450,2341,1964952,1035569,929383,4.8,33,UPI,2023-02-15
+107,Business_107,Restaurant,Hyderabad,Large,Partnership,257,980,1647004,1423953,223051,4.66,22,Debit Card,2022-02-22
+108,Business_108,Restaurant,Chennai,Large,Sole Proprietorship,980,3067,3335355,2097235,1238120,4.6,28,Credit Card,2022-11-02
+109,Business_109,Hospitality,Bengaluru,Small,Sole Proprietorship,659,5697,1941269,1186110,755159,4.44,46,Cash,2021-02-07
+110,Business_110,Retail,Kolkata,Small,Partnership,737,1663,4225019,1936297,2288722,2.83,42,Credit Card,2025-12-09
+111,Business_111,Technology,Ahmedabad,Small,Private,76,8404,2193374,1225917,967457,3.04,22,Bank Transfer,2021-10-10
+112,Business_112,Logistics,Ahmedabad,Large,Partnership,122,7027,1432260,1118559,313701,2.77,5,Debit Card,2025-10-02
+113,Business_113,Logistics,Hyderabad,Large,Partnership,260,3753,656245,337442,318803,3.11,6,Debit Card,2025-04-20
+114,Business_114,Technology,Bengaluru,Large,Public,386,6044,2620520,1291230,1329290,4.93,8,Credit Card,2023-11-19
+115,Business_115,Restaurant,Chennai,Small,Sole Proprietorship,256,6125,2665591,1216441,1449150,4.63,30,Bank Transfer,2022-03-05
+116,Business_116,Retail,Mumbai,Small,Private,108,7859,4711596,3046467,1665129,3.48,34,Bank Transfer,2025-01-09
+117,Business_117,Technology,Pune,Large,Partnership,137,9390,137992,119083,18909,2.91,38,Debit Card,2025-10-18
+118,Business_118,Logistics,Bengaluru,Small,Public,876,8314,2228910,1066167,1162743,2.69,27,UPI,2022-11-25
+119,Business_119,Consulting,Chennai,Large,Public,910,8259,1080306,547549,532757,4.08,37,Debit Card,2021-12-13
+120,Business_120,Logistics,Pune,Small,Private,487,4164,1714719,1371828,342891,3.61,16,UPI,2022-09-26
+121,Business_121,Finance,Chennai,Large,Private,747,8745,2754009,1904089,849920,2.77,44,Credit Card,2021-10-12
+122,Business_122,Consulting,Ahmedabad,Large,Private,886,4591,4080391,3463126,617265,2.85,16,Cash,2021-07-23
+123,Business_123,Education,Delhi,Medium,Sole Proprietorship,307,1394,4949795,4304877,644918,3.12,37,Cash,2025-12-22
+124,Business_124,Manufacturing,Bengaluru,Medium,Partnership,306,7664,4449332,2789733,1659599,4.18,14,UPI,2021-05-26
+125,Business_125,Consulting,Chennai,Small,Public,193,4741,1811035,992533,818502,2.7,23,Credit Card,2023-05-07
+126,Business_126,Retail,Chennai,Large,Private,884,3736,3815523,3008593,806930,3.6,11,Debit Card,2022-10-02
+127,Business_127,Retail,Hyderabad,Medium,Partnership,5,752,2561660,2040048,521612,3.41,10,UPI,2026-01-04
+128,Business_128,Logistics,Delhi,Small,Partnership,130,2479,4868144,2331406,2536738,2.95,36,Bank Transfer,2026-02-22
+129,Business_129,Retail,Bengaluru,Small,Partnership,481,7950,4531205,3747515,783690,4.17,50,Bank Transfer,2023-11-15
+130,Business_130,Manufacturing,Ahmedabad,Small,Private,870,4323,3058884,1626831,1432053,3.03,41,UPI,2024-05-14
+131,Business_131,Hospitality,Bengaluru,Large,Partnership,182,3377,2928296,2297395,630901,4.76,12,UPI,2021-02-08
+132,Business_132,Education,Ahmedabad,Large,Sole Proprietorship,741,4733,3425823,2849108,576715,4.59,8,Credit Card,2025-07-02
+133,Business_133,Education,Mumbai,Small,Public,692,476,4955333,3281936,1673397,3.01,32,UPI,2021-03-14
+134,Business_134,Technology,Kolkata,Small,Sole Proprietorship,359,1800,4058849,2655781,1403068,4.13,13,Cash,2022-03-26
+135,Business_135,Finance,Hyderabad,Small,Public,427,4788,4456542,3567512,889030,4.39,48,Credit Card,2024-04-12
+136,Business_136,Finance,Chennai,Medium,Private,19,5445,914440,413601,500839,4.17,27,Bank Transfer,2025-10-15
+137,Business_137,Logistics,Ahmedabad,Medium,Partnership,992,3066,2966906,2094024,872882,4.86,28,Cash,2023-01-14
+138,Business_138,Retail,Bengaluru,Medium,Partnership,626,1753,1785903,1527922,257981,3.05,43,Debit Card,2024-04-21
+139,Business_139,Healthcare,Delhi,Large,Sole Proprietorship,880,9096,2280227,1612058,668169,2.6,19,Debit Card,2023-03-09
+140,Business_140,Finance,Bengaluru,Medium,Private,970,4355,299616,222949,76667,4.77,35,Credit Card,2021-03-30
+141,Business_141,Finance,Ahmedabad,Large,Private,135,4752,4517775,3995848,521927,3.16,22,Bank Transfer,2023-05-01
+142,Business_142,Finance,Hyderabad,Small,Sole Proprietorship,425,4128,2335166,1706774,628392,2.55,18,UPI,2024-06-19
+143,Business_143,Education,Chennai,Large,Private,207,7978,4239389,2007622,2231767,2.84,41,Debit Card,2024-11-22
+144,Business_144,Finance,Pune,Large,Private,123,9694,3035847,1873052,1162795,2.95,21,Debit Card,2022-01-26
+145,Business_145,Technology,Ahmedabad,Medium,Partnership,898,5400,4347600,3329719,1017881,4.22,49,Bank Transfer,2022-12-14
+146,Business_146,Logistics,Ahmedabad,Small,Private,923,6310,3610017,2759348,850669,3.89,35,Debit Card,2026-05-15
+147,Business_147,Healthcare,Mumbai,Small,Partnership,987,8190,4191001,2015425,2175576,3.39,44,Debit Card,2024-12-13
+148,Business_148,Technology,Pune,Small,Sole Proprietorship,118,7172,623538,457570,165968,2.64,29,Credit Card,2023-11-22
+149,Business_149,Technology,Delhi,Small,Private,665,169,2053946,979741,1074205,4.98,36,Credit Card,2025-05-14
+150,Business_150,Retail,Hyderabad,Medium,Sole Proprietorship,358,3116,1047162,586976,460186,3.3,9,UPI,2026-03-13
+151,Business_151,Restaurant,Chennai,Large,Private,794,8880,2036268,1703495,332773,2.67,36,Bank Transfer,2021-07-01
+152,Business_152,Logistics,Kolkata,Medium,Private,58,3842,2991730,1554040,1437690,2.66,11,Cash,2025-10-27
+153,Business_153,Technology,Hyderabad,Large,Private,909,4949,3315779,2639857,675922,4.0,26,UPI,2025-05-16
+154,Business_154,Logistics,Chennai,Small,Partnership,435,8059,4573715,3898482,675233,4.36,16,Cash,2024-05-11
+155,Business_155,Technology,Kolkata,Medium,Public,141,5899,3606752,2192190,1414562,2.76,4,UPI,2025-03-04
+156,Business_156,Healthcare,Pune,Medium,Sole Proprietorship,840,9366,744080,491012,253068,4.82,36,Debit Card,2026-01-15
+157,Business_157,Manufacturing,Kolkata,Large,Sole Proprietorship,540,4727,306338,163250,143088,3.27,50,Debit Card,2026-02-17
+158,Business_158,Technology,Ahmedabad,Medium,Sole Proprietorship,87,4623,4322381,2886237,1436144,3.29,13,Cash,2026-03-12
+159,Business_159,Education,Kolkata,Large,Private,494,3122,1826958,1403790,423168,3.62,22,Cash,2021-01-07
+160,Business_160,Restaurant,Kolkata,Large,Partnership,339,3117,3849938,1813153,2036785,4.74,41,Credit Card,2024-09-11
+161,Business_161,Consulting,Mumbai,Medium,Public,533,3244,923337,726043,197294,4.02,25,UPI,2022-09-25
+162,Business_162,Healthcare,Chennai,Small,Sole Proprietorship,283,9573,1833207,1267707,565500,4.57,44,Cash,2021-07-17
+163,Business_163,Logistics,Bengaluru,Small,Partnership,393,1163,1078450,593633,484817,4.77,21,UPI,2021-08-29
+164,Business_164,Finance,Hyderabad,Small,Public,685,9281,2481557,1177049,1304508,3.18,24,Debit Card,2024-03-30
+165,Business_165,Logistics,Chennai,Large,Private,23,7037,2892916,1849924,1042992,3.24,13,Debit Card,2023-05-13
+166,Business_166,Manufacturing,Delhi,Small,Partnership,636,5668,1387722,836576,551146,3.27,27,UPI,2023-12-18
+167,Business_167,Finance,Pune,Medium,Public,774,8794,2187467,1788000,399467,3.1,48,Debit Card,2024-10-16
+168,Business_168,Logistics,Bengaluru,Small,Private,74,2151,198656,105021,93635,3.01,46,UPI,2021-11-25
+169,Business_169,Technology,Bengaluru,Small,Partnership,180,1925,846492,688981,157511,3.49,38,Credit Card,2024-06-08
+170,Business_170,Retail,Mumbai,Medium,Public,868,4048,1708407,1150432,557975,4.26,6,Bank Transfer,2025-03-27
+171,Business_171,Education,Pune,Large,Private,65,389,3249996,2674925,575071,4.1,33,Debit Card,2024-02-27
+172,Business_172,Logistics,Chennai,Small,Sole Proprietorship,711,9915,4554891,3934986,619905,4.49,21,UPI,2025-02-08
+173,Business_173,Technology,Ahmedabad,Medium,Public,869,2167,202063,119665,82398,2.58,46,Cash,2021-12-23
+174,Business_174,Logistics,Delhi,Medium,Sole Proprietorship,608,6097,3774415,1714202,2060213,4.27,31,Bank Transfer,2026-05-27
+175,Business_175,Education,Chennai,Large,Public,563,5325,3091304,2485606,605698,3.81,49,UPI,2025-03-17
+176,Business_176,Consulting,Bengaluru,Large,Partnership,959,5319,1700862,1341111,359751,4.53,50,Bank Transfer,2025-06-15
+177,Business_177,Restaurant,Chennai,Medium,Private,273,2697,4050605,3115378,935227,4.41,18,Debit Card,2021-01-10
+178,Business_178,Restaurant,Pune,Small,Sole Proprietorship,758,1015,4037195,2287278,1749917,4.68,48,Bank Transfer,2023-05-03
+179,Business_179,Healthcare,Delhi,Large,Partnership,592,3434,774195,532313,241882,4.99,31,Cash,2024-11-23
+180,Business_180,Retail,Ahmedabad,Large,Public,506,1915,3049503,2443438,606065,3.96,39,Credit Card,2024-08-13
+181,Business_181,Education,Mumbai,Large,Public,614,7213,2771434,2400049,371385,3.52,48,Credit Card,2022-06-25
+182,Business_182,Finance,Chennai,Medium,Public,236,5308,1530774,758790,771984,2.71,31,Cash,2026-04-13
+183,Business_183,Retail,Kolkata,Small,Sole Proprietorship,104,4147,2572154,1324755,1247399,4.95,25,Cash,2021-05-29
+184,Business_184,Healthcare,Pune,Medium,Private,566,3415,1646440,1370473,275967,3.45,30,UPI,2025-12-14
+185,Business_185,Logistics,Hyderabad,Medium,Public,451,7934,4921688,3870421,1051267,2.69,26,UPI,2022-08-20
+186,Business_186,Logistics,Ahmedabad,Large,Sole Proprietorship,311,197,1891807,958198,933609,3.65,39,Bank Transfer,2022-08-13
+187,Business_187,Hospitality,Mumbai,Medium,Sole Proprietorship,77,9804,4143813,3366925,776888,3.15,4,Cash,2024-10-14
+188,Business_188,Technology,Mumbai,Small,Private,731,3430,977276,575627,401649,4.33,41,Cash,2023-08-02
+189,Business_189,Restaurant,Pune,Medium,Partnership,82,1338,2738196,2304849,433347,3.08,47,Cash,2025-02-18
+190,Business_190,Retail,Chennai,Small,Partnership,326,1273,2885487,2262627,622860,3.23,6,Cash,2022-03-17
+191,Business_191,Manufacturing,Ahmedabad,Large,Sole Proprietorship,952,3361,2859556,2264001,595555,4.47,19,Cash,2025-09-14
+192,Business_192,Healthcare,Mumbai,Small,Private,438,6250,2044414,1482291,562123,4.23,28,Credit Card,2023-06-10
+193,Business_193,Hospitality,Pune,Large,Partnership,794,8180,2462404,1520167,942237,2.96,49,Debit Card,2023-03-03
+194,Business_194,Retail,Kolkata,Medium,Public,269,6602,2686926,2396859,290067,4.47,33,Credit Card,2022-05-19
+195,Business_195,Retail,Delhi,Large,Partnership,177,7939,1031494,862952,168542,3.35,15,UPI,2022-11-28
+196,Business_196,Technology,Ahmedabad,Medium,Sole Proprietorship,830,9678,2256939,1520061,736878,4.38,7,Debit Card,2024-06-17
+197,Business_197,Technology,Hyderabad,Small,Partnership,962,3870,1064113,795982,268131,3.07,27,Cash,2025-01-31
+198,Business_198,Finance,Ahmedabad,Large,Public,927,2381,4084400,1860927,2223473,4.17,17,Bank Transfer,2026-04-10
+199,Business_199,Education,Hyderabad,Medium,Private,427,4301,467397,361369,106028,4.08,24,Credit Card,2023-10-15
+200,Business_200,Healthcare,Delhi,Small,Public,125,1907,424963,301710,123253,3.56,45,Bank Transfer,2024-02-01
+201,Business_201,Technology,Hyderabad,Large,Sole Proprietorship,627,324,2681044,1405813,1275231,3.95,1,Credit Card,2025-09-19
+202,Business_202,Education,Bengaluru,Small,Sole Proprietorship,82,4995,4928335,3162474,1765861,2.83,45,Bank Transfer,2025-03-26
+203,Business_203,Technology,Kolkata,Large,Partnership,975,4129,2770715,1759505,1011210,3.18,7,Cash,2022-10-20
+204,Business_204,Retail,Ahmedabad,Medium,Private,755,1134,4500268,3957598,542670,4.06,42,Credit Card,2024-09-16
+205,Business_205,Manufacturing,Chennai,Large,Partnership,957,8851,3391221,2649817,741404,3.41,21,Bank Transfer,2022-08-06
+206,Business_206,Consulting,Pune,Small,Sole Proprietorship,816,3699,146916,119581,27335,4.66,19,Credit Card,2021-05-09
+207,Business_207,Hospitality,Delhi,Small,Sole Proprietorship,750,9172,3268417,1992763,1275654,4.56,3,Bank Transfer,2025-04-26
+208,Business_208,Retail,Kolkata,Small,Sole Proprietorship,783,258,2869174,2507375,361799,3.05,25,Bank Transfer,2022-04-07
+209,Business_209,Logistics,Chennai,Small,Public,829,5435,846731,669028,177703,4.09,43,Credit Card,2025-06-05
+210,Business_210,Retail,Ahmedabad,Small,Partnership,490,1655,2225848,1234323,991525,2.57,41,Debit Card,2023-12-12
+211,Business_211,Consulting,Bengaluru,Large,Partnership,830,3727,2844206,1831746,1012460,3.73,11,Cash,2023-11-20
+212,Business_212,Consulting,Pune,Small,Partnership,640,1347,1140644,618164,522480,4.7,33,Debit Card,2021-04-14
+213,Business_213,Logistics,Mumbai,Large,Public,33,2540,342292,187304,154988,3.16,11,Credit Card,2025-12-25
+214,Business_214,Technology,Mumbai,Small,Sole Proprietorship,718,6167,3811918,2438087,1373831,4.44,25,Cash,2025-06-25
+215,Business_215,Finance,Bengaluru,Medium,Partnership,913,3932,423251,238564,184687,3.11,10,Cash,2023-10-28
+216,Business_216,Manufacturing,Chennai,Medium,Private,128,9477,1302448,1050411,252037,3.34,7,Credit Card,2026-01-07
+217,Business_217,Consulting,Delhi,Large,Private,818,9424,2464554,1463681,1000873,4.18,50,Debit Card,2026-03-23
+218,Business_218,Manufacturing,Bengaluru,Small,Sole Proprietorship,138,2451,3795877,2970751,825126,3.86,31,Cash,2026-04-27
+219,Business_219,Retail,Hyderabad,Small,Sole Proprietorship,64,9295,3937785,1808686,2129099,4.86,17,Cash,2022-05-07
+220,Business_220,Hospitality,Ahmedabad,Small,Sole Proprietorship,219,2284,4290914,2260369,2030545,3.06,43,Credit Card,2023-04-24
+221,Business_221,Hospitality,Delhi,Small,Partnership,102,3446,4326458,3460698,865760,3.03,6,Cash,2021-04-18
+222,Business_222,Consulting,Mumbai,Medium,Partnership,635,8168,3803862,2783578,1020284,2.98,35,UPI,2025-01-12
+223,Business_223,Restaurant,Pune,Medium,Sole Proprietorship,145,2704,564556,266283,298273,4.34,48,Credit Card,2023-02-28
+224,Business_224,Technology,Delhi,Medium,Sole Proprietorship,948,5749,498284,346487,151797,4.41,24,Bank Transfer,2025-11-22
+225,Business_225,Finance,Hyderabad,Medium,Public,831,5140,149252,73816,75436,2.87,22,Cash,2026-05-18
+226,Business_226,Healthcare,Chennai,Medium,Sole Proprietorship,9,649,1823719,1076833,746886,2.59,50,Cash,2025-09-07
+227,Business_227,Finance,Pune,Small,Partnership,536,1344,963533,740999,222534,2.86,23,Cash,2022-08-07
+228,Business_228,Technology,Chennai,Medium,Private,694,7615,1864184,1233227,630957,4.94,32,Credit Card,2021-05-10
+229,Business_229,Hospitality,Delhi,Large,Public,365,1590,1230038,775673,454365,3.82,44,UPI,2022-07-24
+230,Business_230,Healthcare,Kolkata,Small,Partnership,489,7029,3572274,1804110,1768164,4.45,44,Cash,2021-03-22
+231,Business_231,Manufacturing,Ahmedabad,Medium,Public,778,7627,2607127,2296611,310516,3.3,26,Credit Card,2023-11-23
+232,Business_232,Technology,Bengaluru,Small,Private,987,5332,2012131,1661542,350589,3.0,50,UPI,2023-09-05
+233,Business_233,Education,Chennai,Medium,Public,9,9991,3059836,1941841,1117995,3.09,10,Bank Transfer,2021-12-10
+234,Business_234,Finance,Bengaluru,Small,Partnership,854,5081,1099959,777407,322552,3.85,42,Debit Card,2021-06-30
+235,Business_235,Finance,Pune,Medium,Private,817,8992,166072,127946,38126,4.45,27,UPI,2022-07-07
+236,Business_236,Restaurant,Bengaluru,Large,Public,736,3317,4350909,3184559,1166350,4.88,4,Bank Transfer,2024-11-08
+237,Business_237,Restaurant,Kolkata,Small,Private,957,7032,3169560,1470539,1699021,3.35,9,UPI,2025-04-23
+238,Business_238,Retail,Chennai,Medium,Public,511,9731,2355681,1764650,591031,4.19,1,Bank Transfer,2025-12-05
+239,Business_239,Restaurant,Bengaluru,Small,Public,93,5128,1467770,1100346,367424,3.5,14,UPI,2021-07-19
+240,Business_240,Restaurant,Kolkata,Small,Sole Proprietorship,662,3408,1039051,674446,364605,2.91,33,Credit Card,2021-11-13
+241,Business_241,Retail,Hyderabad,Small,Public,990,708,884258,790946,93312,2.79,41,Debit Card,2024-10-02
+242,Business_242,Healthcare,Chennai,Large,Public,10,2743,1882976,1035436,847540,4.81,33,Bank Transfer,2024-10-21
+243,Business_243,Technology,Hyderabad,Medium,Sole Proprietorship,43,7724,3084373,2606535,477838,3.84,44,Bank Transfer,2021-05-15
+244,Business_244,Healthcare,Kolkata,Large,Private,74,2022,225324,160255,65069,4.16,28,Cash,2025-09-30
+245,Business_245,Consulting,Bengaluru,Small,Private,512,2059,1594826,1201088,393738,3.17,2,UPI,2021-02-09
+246,Business_246,Manufacturing,Kolkata,Small,Sole Proprietorship,680,3296,4025609,2614343,1411266,4.27,28,Debit Card,2025-09-08
+247,Business_247,Education,Hyderabad,Medium,Public,312,2486,1342524,911857,430667,3.48,45,Debit Card,2025-10-12
+248,Business_248,Retail,Kolkata,Large,Partnership,586,324,1202447,565255,637192,3.86,7,UPI,2021-02-19
+249,Business_249,Finance,Kolkata,Small,Sole Proprietorship,121,3701,3494967,2946226,548741,4.36,2,Cash,2023-02-12
+250,Business_250,Healthcare,Kolkata,Large,Public,347,7731,179712,99640,80072,4.29,35,Credit Card,2023-12-17
+251,Business_251,Manufacturing,Kolkata,Medium,Sole Proprietorship,679,9934,3402282,2603909,798373,4.65,39,UPI,2021-01-16
+252,Business_252,Retail,Chennai,Medium,Private,600,4304,1378442,861265,517177,4.24,38,Bank Transfer,2025-09-03
+253,Business_253,Technology,Mumbai,Large,Partnership,659,1781,278188,248664,29524,4.69,21,Debit Card,2022-01-25
+254,Business_254,Restaurant,Ahmedabad,Small,Sole Proprietorship,795,9361,2128647,1423311,705336,2.77,32,Credit Card,2022-05-26
+255,Business_255,Technology,Hyderabad,Medium,Sole Proprietorship,613,9353,1540839,719624,821215,4.17,43,Cash,2022-01-28
+256,Business_256,Healthcare,Ahmedabad,Small,Public,549,8278,4887194,3039984,1847210,4.4,11,Debit Card,2023-08-11
+257,Business_257,Hospitality,Bengaluru,Medium,Public,484,4491,2722971,1408337,1314634,3.21,30,Cash,2026-06-18
+258,Business_258,Restaurant,Hyderabad,Medium,Partnership,731,5991,354873,196845,158028,3.52,19,Credit Card,2024-01-20
+259,Business_259,Healthcare,Pune,Large,Partnership,811,960,59749,35564,24185,3.34,27,Debit Card,2025-02-17
+260,Business_260,Logistics,Mumbai,Small,Public,904,2168,3951856,3352867,598989,2.85,5,Debit Card,2024-09-15
+261,Business_261,Consulting,Bengaluru,Medium,Sole Proprietorship,328,1551,2314487,1398336,916151,3.03,13,Bank Transfer,2022-02-15
+262,Business_262,Technology,Mumbai,Large,Private,144,2987,3151381,1832331,1319050,3.46,43,UPI,2024-11-26
+263,Business_263,Logistics,Mumbai,Large,Sole Proprietorship,774,4814,1447813,1237061,210752,2.65,39,UPI,2021-04-03
+264,Business_264,Healthcare,Chennai,Medium,Partnership,489,5181,4714394,3181872,1532522,2.68,30,Credit Card,2024-05-13
+265,Business_265,Education,Kolkata,Medium,Public,181,8952,3812545,2322567,1489978,3.26,5,UPI,2022-08-23
+266,Business_266,Healthcare,Pune,Small,Partnership,321,815,916050,734502,181548,3.21,42,Credit Card,2024-10-30
+267,Business_267,Finance,Mumbai,Small,Partnership,194,1141,4911094,3512405,1398689,2.8,25,Bank Transfer,2024-08-22
+268,Business_268,Restaurant,Bengaluru,Medium,Partnership,614,2920,1804061,1143513,660548,3.35,47,Cash,2023-02-22
+269,Business_269,Restaurant,Kolkata,Medium,Sole Proprietorship,301,4286,3921154,1938214,1982940,4.37,13,UPI,2026-01-29
+270,Business_270,Retail,Mumbai,Medium,Private,21,9760,3015896,1360904,1654992,3.83,12,Credit Card,2022-08-22
+271,Business_271,Education,Ahmedabad,Small,Public,992,8264,4861957,3545580,1316377,3.56,33,UPI,2025-01-06
+272,Business_272,Hospitality,Ahmedabad,Small,Private,469,8137,2430759,1322784,1107975,3.33,13,Bank Transfer,2021-06-05
+273,Business_273,Retail,Bengaluru,Medium,Public,386,7633,1645784,1472977,172807,3.87,45,Debit Card,2022-03-27
+274,Business_274,Manufacturing,Ahmedabad,Large,Private,979,3261,2166034,1723010,443024,2.86,22,UPI,2025-02-16
+275,Business_275,Hospitality,Pune,Medium,Partnership,848,3005,645408,463527,181881,4.31,25,Bank Transfer,2022-01-03
+276,Business_276,Education,Ahmedabad,Medium,Private,1000,7128,4067709,1921431,2146278,2.63,32,UPI,2021-05-28
+277,Business_277,Restaurant,Hyderabad,Medium,Private,56,1503,2116884,974889,1141995,3.01,43,Cash,2023-12-24
+278,Business_278,Hospitality,Chennai,Small,Public,470,8778,484145,322352,161793,3.45,36,Credit Card,2026-01-04
+279,Business_279,Hospitality,Bengaluru,Small,Partnership,453,3588,3145149,2618282,526867,2.96,11,Bank Transfer,2021-06-01
+280,Business_280,Healthcare,Hyderabad,Small,Partnership,304,499,2984374,1348908,1635466,4.46,32,Debit Card,2021-05-06
+281,Business_281,Logistics,Pune,Large,Private,109,6973,1804525,1265954,538571,2.53,42,UPI,2025-07-28
+282,Business_282,Restaurant,Mumbai,Small,Private,348,8963,4527300,4046865,480435,3.23,38,Credit Card,2024-08-14
+283,Business_283,Technology,Chennai,Small,Private,240,8913,4677096,2593827,2083269,4.21,35,UPI,2023-06-06
+284,Business_284,Retail,Hyderabad,Large,Private,174,7276,4844252,3844879,999373,4.76,34,Cash,2026-03-12
+285,Business_285,Logistics,Mumbai,Small,Sole Proprietorship,454,9561,3211105,1791523,1419582,3.84,9,UPI,2022-12-27
+286,Business_286,Healthcare,Pune,Medium,Private,632,9288,3018800,2241216,777584,2.81,32,Cash,2024-08-05
+287,Business_287,Retail,Mumbai,Medium,Public,372,8264,4018894,2912347,1106547,3.57,14,Credit Card,2025-12-16
+288,Business_288,Consulting,Ahmedabad,Small,Partnership,306,3997,2692537,2252883,439654,4.38,16,Bank Transfer,2023-07-14
+289,Business_289,Restaurant,Chennai,Small,Public,265,7759,1860415,1189929,670486,3.87,43,Cash,2024-03-11
+290,Business_290,Consulting,Chennai,Large,Public,902,4630,3803097,3058712,744385,4.15,50,UPI,2021-10-26
+291,Business_291,Manufacturing,Delhi,Medium,Public,758,493,1173655,772706,400949,3.45,32,Bank Transfer,2024-02-29
+292,Business_292,Healthcare,Bengaluru,Medium,Partnership,466,2468,737588,589074,148514,4.21,9,Debit Card,2025-04-16
+293,Business_293,Hospitality,Chennai,Small,Sole Proprietorship,911,2534,1034832,528413,506419,4.36,44,Debit Card,2026-04-28
+294,Business_294,Finance,Ahmedabad,Medium,Private,49,223,4566262,3997829,568433,4.6,49,Credit Card,2023-10-07
+295,Business_295,Logistics,Bengaluru,Small,Sole Proprietorship,257,8277,3774644,2730233,1044411,3.32,33,Bank Transfer,2025-08-18
+296,Business_296,Logistics,Chennai,Large,Public,739,7694,279478,179636,99842,4.47,5,Bank Transfer,2022-10-14
+297,Business_297,Hospitality,Ahmedabad,Small,Partnership,924,1742,2599275,1916380,682895,3.81,35,Debit Card,2022-07-07
+298,Business_298,Hospitality,Pune,Medium,Private,987,7882,3025398,2596687,428711,3.87,2,UPI,2021-12-29
+299,Business_299,Restaurant,Ahmedabad,Small,Public,705,820,2578205,1669378,908827,2.97,36,UPI,2023-04-01
+300,Business_300,Retail,Delhi,Small,Partnership,776,2672,3566652,2873497,693155,4.83,25,UPI,2023-09-05
